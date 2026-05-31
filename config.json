@@ -1,0 +1,99 @@
+{
+    "json_file": "parsed_data.json",
+    "layers": {
+        "kld_name": "cities[0].name",
+        "kld_night": "cities[0].night_temp",
+        "kld_day": "cities[0].day_temp",
+        "kld_condition": "cities[0].condition",
+        "kld_wind": "cities[0].wind_speed",
+        
+        "svet_name": "cities[1].name",
+        "svet_night": "cities[1].night_temp",
+        "svet_day": "cities[1].day_temp",
+        "svet_condition": "cities[1].condition",
+        "svet_wind": "cities[1].wind_speed",
+        "svet_water": "cities[1].water_temp",
+        
+        "zel_name": "cities[2].name",
+        "zel_night": "cities[2].night_temp",
+        "zel_day": "cities[2].day_temp",
+        "zel_condition": "cities[2].condition",
+        "zel_wind": "cities[2].wind_speed",
+        "zel_water": "cities[2].water_temp",
+        
+        "pion_name": "cities[3].name",
+        "pion_night": "cities[3].night_temp",
+        "pion_day": "cities[3].day_temp",
+        "pion_condition": "cities[3].condition",
+        "pion_wind": "cities[3].wind_speed",
+        "pion_water": "cities[3].water_temp",
+        
+        "balt_name": "cities[4].name",
+        "balt_night": "cities[4].night_temp",
+        "balt_day": "cities[4].day_temp",
+        "balt_condition": "cities[4].condition",
+        "balt_wind": "cities[4].wind_speed",
+        "balt_water": "cities[4].water_temp",
+        
+        "cher_name": "cities[5].name",
+        "cher_night": "cities[5].night_temp",
+        "cher_day": "cities[5].day_temp",
+        "cher_condition": "cities[5].condition",
+        "cher_wind": "cities[5].wind_speed",
+        
+        "sov_name": "cities[6].name",
+        "sov_night": "cities[6].night_temp",
+        "sov_day": "cities[6].day_temp",
+        "sov_condition": "cities[6].condition",
+        "sov_wind": "cities[6].wind_speed",
+        
+        "gusev_name": "cities[7].name",
+        "gusev_night": "cities[7].night_temp",
+        "gusev_day": "cities[7].day_temp",
+        "gusev_condition": "cities[7].condition",
+        "gusev_wind": "cities[7].wind_speed",
+        
+        "gvar_name": "cities[8].name",
+        "gvar_night": "cities[8].night_temp",
+        "gvar_day": "cities[8].day_temp",
+        "gvar_condition": "cities[8].condition",
+        "gvar_wind": "cities[8].wind_speed",
+        
+        "yant_name": "cities[9].name",
+        "yant_night": "cities[9].night_temp",
+        "yant_day": "cities[9].day_temp",
+        "yant_condition": "cities[9].condition",
+        "yant_wind": "cities[9].wind_speed",
+        "yant_water": "cities[9].water_temp",
+        
+        "prav_name": "cities[10].name",
+        "prav_night": "cities[10].night_temp",
+        "prav_day": "cities[10].day_temp",
+        "prav_condition": "cities[10].condition",
+        "prav_wind": "cities[10].wind_speed",
+        
+        "bagr_name": "cities[11].name",
+        "bagr_night": "cities[11].night_temp",
+        "bagr_day": "cities[11].day_temp",
+        "bagr_condition": "cities[11].condition",
+        "bagr_wind": "cities[11].wind_speed",
+        
+        "nest_name": "cities[12].name",
+        "nest_night": "cities[12].night_temp",
+        "nest_day": "cities[12].day_temp",
+        "nest_condition": "cities[12].condition",
+        "nest_wind": "cities[12].wind_speed",
+        
+        "krasn_name": "cities[13].name",
+        "krasn_night": "cities[13].night_temp",
+        "krasn_day": "cities[13].day_temp",
+        "krasn_condition": "cities[13].condition",
+        "krasn_wind": "cities[13].wind_speed",
+        
+        "polessk_name": "cities[14].name",
+        "polessk_night": "cities[14].night_temp",
+        "polessk_day": "cities[14].day_temp",
+        "polessk_condition": "cities[14].condition",
+        "polessk_wind": "cities[14].wind_speed"
+    }
+}
